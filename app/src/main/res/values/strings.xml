@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnakesNladders</string>
+    <color name="red">#ff0000</color>
+    <color name="blue_">#0000ff</color>
+</resources>
